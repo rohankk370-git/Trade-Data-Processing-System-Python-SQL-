@@ -1,0 +1,7 @@
+trade_id,symbol,side,quantity,price
+1,TCS,BUY,10,3000
+2,TCS,SELL,10,3200
+3,INFY,BUY,5,1500
+4,INFY,SELL,5,1400
+5,TCS,BUY,5,3100
+6,TCS,SELL,5,3300
